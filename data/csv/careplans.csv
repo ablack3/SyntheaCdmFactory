@@ -1,0 +1,5 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+11ed7b59-fa22-e2cc-e1c5-5fad3529ebc2,2020-08-03,2022-01-04,780ec78c-22a0-fcdb-17c6-ae9b2fcace9c,42ad50ed-0e0e-8ca0-5081-1c09a78874b6,395082007,Cancer care plan,109838007,Overlapping malignant neoplasm of colon
+dc67bce5-8756-d108-0459-76f71c702512,2020-08-12,2020-08-22,780ec78c-22a0-fcdb-17c6-ae9b2fcace9c,644e533d-42b6-dac9-35a5-39dcbb3ef98c,737567002,Major surgery care management (procedure),109838007,Overlapping malignant neoplasm of colon
+03d7aa8d-6806-0126-3958-a868a8f3606a,2015-12-07,,cf5956bb-34f2-841b-2505-57b99991c377,dc920231-749e-adde-192e-17487030e78c,395082007,Cancer care plan,109838007,Overlapping malignant neoplasm of colon
+6858061b-8aa3-130f-85a0-3dea1ff213fd,2015-12-15,2015-12-29,cf5956bb-34f2-841b-2505-57b99991c377,943a0cdf-d8c0-2396-7db9-05df07657f0e,737567002,Major surgery care management (procedure),109838007,Overlapping malignant neoplasm of colon

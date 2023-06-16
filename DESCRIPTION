@@ -1,0 +1,17 @@
+Package: SyntheaCdmFactory
+Type: Package
+Title: Create Synthea OMOP Common Data Model Databases
+Version: 0.1.0
+Author: c(
+    person("Adam", "Black", , "black@ohdsi.org", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5576-8701"))
+  )
+Description: Create Synthea OMOP CDMs. Heavily relies on OHDSI/ETLSyntheaBuilder.
+License: Apache License (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    duckdb
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

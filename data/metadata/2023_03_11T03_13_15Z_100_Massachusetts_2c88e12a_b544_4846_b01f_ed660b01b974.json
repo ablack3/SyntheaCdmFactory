@@ -1,0 +1,20 @@
+{
+  "runID": "2c88e12a-b544-4846-b01f-ed660b01b974",
+  "seed": 12345,
+  "clinicianSeed": 1678504395403,
+  "referenceTime": "20230311",
+  "endTime": "20230311",
+  "version": "v3.1.0-2-g5158286fd\n",
+  "patientCount": 107,
+  "providerCount": 10113,
+  "payerCount": 9,
+  "javaVersion": "17.0.5",
+  "generate.thread_pool_size": -1,
+  "generatorThreads": 10,
+  "runStartTime": "2023-03-11T03:13:15Z",
+  "runTimeInSeconds": 16,
+  "exporter.years_of_history": "10",
+  "age": "10-90",
+  "state": "Massachusetts",
+  "modules": "breast_cancer;colorectal_cancer;lung_cancer"
+}
