@@ -35,7 +35,7 @@ install_synthea()
 # this step might be automated in the future.
 vocab_path <- "~/Downloads/vocabulary_bundle_v5_0-22-JUN-22.zip"
 
-# may take a few minuetes to run
+# may take a few minutes to run
 synthesize_cdm(path = here::here("hiv_cdm.duckdb"), 
                vocab_path = "~/Downloads/vocabulary_bundle_v5_0-22-JUN-22.zip",
                n_persons = 100,
