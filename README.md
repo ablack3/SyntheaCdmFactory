@@ -28,7 +28,7 @@ library(SyntheaCdmFactory)
 # install the synthea java library. Only do this once.
 install_synthea()
 
-# manually download vcoab bundle from https://drive.google.com/file/d/1by7G4pLvUeepOpRqzl3ItO1WDZv_xYoK/view?usp=sharing
+# manually download vocab bundle from https://drive.google.com/file/d/1by7G4pLvUeepOpRqzl3ItO1WDZv_xYoK/view?usp=sharing
 
 # point R to the location
 
