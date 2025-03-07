@@ -15,7 +15,7 @@ You can install the development version of SyntheaCdmFactory from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("OdyOSG/SyntheaCdmFactory")
+devtools::install_github("ablack3/SyntheaCdmFactory")
 ```
 
 ## Example
